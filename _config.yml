@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: zyqian1212@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 十一月织黑色毛衣"
-url: "http://Billyao04.github.io"          # your host, for absolute URL
+url: "http://zhenye-math.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Billyao04/Billyao04.github.io.git" # you code repository
+github_repo: "https://github.com/zhenye-math/zhenye-math.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/header.jpg      # use absolute URL, seeing it's used in bot
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    Billyao04
+github_username:    zhenye-math
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
